@@ -4,9 +4,6 @@ Start Here!
 
 1. [What's Included?](#whats-included)
 2. [Build your Zoom!](#build-your-zoom)
-   1. [Charge Your Batteries](#step-1.-charge-your-batteries)
-   2. [Layout Zoom housing](#step-2.-layout-zoom-housing)
-   3. [Attach standoffs to RC car base ](#step-3.-attach-standoffs-to-RC-car-base)
 
 ## What's included? 
 
