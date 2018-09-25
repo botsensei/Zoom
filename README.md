@@ -19,4 +19,4 @@ To inspire you and the future about building technologies that make the hard par
 -------------------------------------------
 ## Documentation
 
-If you have suggestions on how to improve the documentation please submit a pull request. To edit markdown easily we suggest you use [typora](https://typora.io)
+If you have suggestions on how to improve the documentation please submit a pull request. To edit markdown easily we suggest you use [typora](https://typora.io).
