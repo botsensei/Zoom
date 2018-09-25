@@ -1,6 +1,4 @@
-# Zoom Documentation
-
-## Zoom into the future
+# Zoom into the future
 
 Learn the basics of self-driving car technology with a Zoom whizkit!
 
@@ -11,8 +9,6 @@ Learn the basics of self-driving car technology with a Zoom whizkit!
 3. [Setup Zoom's brain](guide/setup.md)
 4. [Teach your Zoom](guide/train.md)
 5. [Now what? How to improve your Zoom Autopilot](guide/autopilot.md)
-
-
 
 -------------------------------------------
 
