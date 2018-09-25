@@ -1,6 +1,6 @@
 # Zoom into the future
 
-Learn the basics of self-driving car technology with a Zoom whizkit!
+Learn the basics of self-driving car technology with a [Zoom whizkit!](https://whiz.fun)
 
 ## Steps to build your Zoom
 
@@ -15,3 +15,8 @@ Learn the basics of self-driving car technology with a Zoom whizkit!
 ## Mission 
 
 To inspire you and the future about building technologies that make the hard parts of life easy so that people can spend more time exploring, laughing, and loving.
+
+-------------------------------------------
+## Documentation
+
+If you have suggestions on how to improve the documentation please submit a pull request. To edit markdown easily we suggest you use [typora](https://typora.io)
