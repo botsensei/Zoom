@@ -10,19 +10,14 @@ Start Here!
 The Zoom whizkit comes with everything necessary so you can be teaching your car to drive in no time. The kit includes:
 
 1. Zoom whizkit chassis
-
    - The biggest piece of our kit which allows your Zoom to go over 20mph!
 2. Zoom whizkit housing
-
    - Puzzle piece shapes that when put together hold the Zoom's guts
 3. Zoom whizkit controller
-
    - A wireless bluetooth controller which allows you to control your Zoom
 4. Raspberry PiBrain
-
    - A powerful palm sized computer programmed to be your Zoom whizkit's brain
 5. PiCam
-
    - How your Zoom sees the world
 6. x amount of washers, x amount of bolts, 1% 
 7. PiBattery
@@ -31,10 +26,9 @@ The Zoom whizkit comes with everything necessary so you can be teaching your car
 10. Micro USB switch
 11. Ethernet Cable
 12. Dupont wires
-13. 
 
 
-## Build your Zoom!
+## Build your Zoom! (The gifs take some time to load. Give it a minute and you should be good to go!)
 
 ### Step 1. Charge your batteries
 
