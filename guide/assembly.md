@@ -7,6 +7,8 @@ Start Here!
 
 ## What's included? 
 
+![Alt Text](/assets/kit launch card.jpeg)
+
 The Zoom whizkit comes with everything necessary so you can be teaching your car to drive in no time. The kit includes:
 
 1. Zoom whizkit chassis
