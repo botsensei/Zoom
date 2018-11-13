@@ -2,19 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 body{
   background-color: #fff;
   color: #fff;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
-h1, h2, h3, h4, h5 {
-  color: #000;
-}
-header{
-  background-color: #fff;
-  color: #000;
-}
-header h1{
-  color:#000;
-}
+
   
