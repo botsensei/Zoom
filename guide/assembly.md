@@ -36,9 +36,14 @@ The Zoom whizkit comes with everything necessary so you can be teaching your car
 
 Be sure to set up both of your batteries to charge so you can start teaching your car to drive when you're done assembling!
 
+![Alt Text](/whiz housing gifs/gifs/whiz gif 17.mp4.gif)
+![Alt Text](/whiz housing gifs/gifs/whiz gif 18.mp4.gif)
+
 ### Step 2. Layout Zoom housing
 
 Lay out the Zoom housing as shown below. It'll make it easier for you to figure out where all the components go. 
+
+![Alt Text](/assets/kit launch card.jpeg)
 
 ### Step 3. Attach standoffs to RC car base
 
