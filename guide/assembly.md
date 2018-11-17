@@ -30,13 +30,14 @@ The Zoom whizkit comes with everything necessary so you can be teaching your car
 12. Dupont wires
 
 
-## Build your Zoom! (The gifs take some time to load. Give it a minute and you should be good to go!)
+## Build your Zoom! 
+## (The gifs take some time to load. Give it a minute and you should be good to go!)
 
 ### Step 1. Charge your batteries
 
 Be sure to set up both of your batteries to charge so you can start teaching your car to drive when you're done assembling!
 
-![Alt Text](/whiz housing gifs/gifs/whiz gif 17.mp4.gif)
+![Alt Text](/whiz housing gifs/gifs/whiz gif 17.mp4-min.gif)
 ![Alt Text](/whiz housing gifs/gifs/whiz gif 18.mp4.gif)
 
 ### Step 2. Layout Zoom housing
