@@ -8,7 +8,7 @@
 
 ## What's included? 
 
-![Alt Text](..../whiz housing gifs/gifs/kit launch card.jpeg)
+![Alt Text](whiz housing gifs/gifs/kit launch card.jpeg)
 
 The Zoom whizkit comes with everything necessary so you can be teaching your car to drive in no time. The kit includes:
 
