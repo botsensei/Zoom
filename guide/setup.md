@@ -1,4 +1,39 @@
-## Start Zoomin
+# Start Zoomin
+
+There are two ways to use Zoom. Pick one and get started!
+
+1. [ZoomFi](#ZoomFi) (Recommended)
+   - Connect to ZoomFi and access the web controller to drive
+2. [Local WiFi](#Local-Wifi)
+   - Configure Zoom and connect to your home, school, or local internet to access the web controller and drive
+
+## ZoomFi
+
+### Step 1. Start your engines!
+
+Turn on your Zoom Robocar as well as your laptop with Google Chrome. 
+
+### Step 2. Find and connect to ZoomFi in WiFi list
+
+### Step 3. Access the web controller at https://zoompi.local:8887
+
+### Step 4. Connect your BT Controller
+
+### Step 5. Select Gamepad Option
+
+### Step 6. Practice driving around track
+
+### Step 5. Press START to collect data and get Zoomin'
+
+- Leave the Start button alone if you just want to practice without collecting data.
+
+### Step 6. Download Training Data 
+
+### Step 7. Head to Colab Trainer Notebook 
+
+------
+
+## Local Wifi 
 
 ### Step 1. Insert mini SD card into SD Adapter then into computer
 
@@ -60,7 +95,7 @@ Now, save the file then drag and drop to the SD card you inserted earlier named 
 
 After you turn on the Zoom head to [launchpad](launchpad.whiz.fun). Here you can see if the device is connected (make sure you are on the same wifi network) and if so you are now able to access test-drive. 
 
-### Step 6. Access Zoom controller
+### Step 6. Access web controller at https://zoompi.local:8887
 
 ### Step 7. Insert or connect to USB controller
 
@@ -72,4 +107,4 @@ After you turn on the Zoom head to [launchpad](launchpad.whiz.fun). Here you can
 
 ### Step 11. Download training data 
 
-### Step 12. Head to Colab
+### Step 12. Head to Colab Trainer Notebook
