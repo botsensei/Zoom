@@ -2,7 +2,7 @@
 
 Learn the basics of self-driving car technology with a Zoom robocar!
 
-![alt text](/Users/zfaizal/Documents/Sites/whizkit/img/zoomangle.JPG)
+![alt text](assets/zoomangle.JPG)
 
 ## Steps to build your Zoom
 
