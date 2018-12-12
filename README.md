@@ -1,4 +1,4 @@
-## Zoom into the future
+# Zoom into the future
 
 Learn the basics of self-driving car technology with a Zoom robocar!
 
